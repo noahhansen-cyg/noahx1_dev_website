@@ -16,6 +16,15 @@ skills:
     technologies: ["PostgreSQL", "PrestoDB/Athena", "Oracle", "LDAP", "Git", "RESTful APIs"]
 
 experience:
+  - company: "Cirqil"
+    role: "Founding Software Engineer"
+    dates: "May 2026 – Present"
+    bullets:
+      - "Founding engineer at an early-stage startup building a unified events management platform — a one-app-does-all approach to film festivals, conventions, and other large-scale events."
+      - "Focused on backend development, owning and building out the testing infrastructure that keeps a fast-moving codebase reliable."
+      - "Heavily leverage AI-based tooling — Claude, CodeRabbit, and Superset — to accelerate development, testing, and code review."
+      - "Stack: TypeScript, React."
+
   - company: "TAKE2"
     role: "Senior Software Developer"
     dates: "March 2024 – Present"
